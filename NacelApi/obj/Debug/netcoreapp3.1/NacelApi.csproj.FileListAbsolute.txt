@@ -7,7 +7,6 @@ C:\Projects\NacelApi\NacelApi\bin\Debug\netcoreapp3.1\NacelApi.runtimeconfig.jso
 C:\Projects\NacelApi\NacelApi\bin\Debug\netcoreapp3.1\NacelApi.runtimeconfig.dev.json
 C:\Projects\NacelApi\NacelApi\bin\Debug\netcoreapp3.1\NacelApi.dll
 C:\Projects\NacelApi\NacelApi\bin\Debug\netcoreapp3.1\NacelApi.pdb
-C:\Projects\NacelApi\NacelApi\obj\Debug\netcoreapp3.1\NacelApi.csprojAssemblyReference.cache
 C:\Projects\NacelApi\NacelApi\obj\Debug\netcoreapp3.1\NacelApi.csproj.CoreCompileInputs.cache
 C:\Projects\NacelApi\NacelApi\obj\Debug\netcoreapp3.1\NacelApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\NacelApi\NacelApi\obj\Debug\netcoreapp3.1\NacelApi.AssemblyInfoInputs.cache
